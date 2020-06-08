@@ -1,4 +1,4 @@
-class DroneAutonomy < Formula
+class Px4SimGazebo < Formula
   desc "Custom package PX4 Gazebo simulation"
   homepage "To BE DONE"
   url "https://github.com/happyretreat/drone-autonomy/archive/v0.0.1.tar.gz"
